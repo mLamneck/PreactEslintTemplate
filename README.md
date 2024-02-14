@@ -12,7 +12,7 @@ Node installed
 
 ### How to create your own project?
 
-This is a template repo, means you can create a copy of this in your own account. After that you can download your new repo and follow the steps.
+This is a template repository, means you can create a copy of this in your own account to start a new project (use this template option). After that you can download your new repo and follow the steps.
 
 1. Clone the repo
 2. Install NPM packages
